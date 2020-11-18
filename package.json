@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/toshiye/TypeScriptCursoCoder#readme",
   "dependencies": {
-    "live-server": "^1.2.1"
+    "@types/node": "^14.14.8",
+    "live-server": "^1.2.1",
+    "systemjs": "^0.21.6"
   }
 }
